@@ -1,0 +1,26 @@
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.exe.config
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.pdb
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\MainWindow.baml
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\MainWindow.g.cs
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\App.g.cs
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2_MarkupCompile.cache
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.g.resources
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.Properties.Resources.resources
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.csproj.GenerateResource.Cache
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.exe
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.pdb
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.csprojResolveAssemblyReference.cache
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.exe.config
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.exe
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.pdb
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.exe
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\bin\Debug\vksis_lab_2.pdb
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.csprojResolveAssemblyReference.cache
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\MainWindow.baml
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\MainWindow.g.cs
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\App.g.cs
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2_MarkupCompile.cache
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.g.resources
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.Properties.Resources.resources
+D:\Учеба\ВКСиС\labs\vksis_lab_2\vksis_lab_2\obj\Debug\vksis_lab_2.csproj.GenerateResource.Cache

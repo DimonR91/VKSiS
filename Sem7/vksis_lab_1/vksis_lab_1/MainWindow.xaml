@@ -1,0 +1,29 @@
+﻿<Window x:Class="vksis_lab_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="COM ports" Height="500" Width="600" Loaded="Window_Loaded_1">
+    <Grid>
+        <StackPanel>
+            <StackPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="1"/>
+                    <GradientStop Color="#FF348AF1"/>
+                </LinearGradientBrush>
+            </StackPanel.Background>
+            <StackPanel Orientation="Horizontal" Margin="20" >
+            <Label>COM:</Label>
+            <ComboBox Name="comComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" SelectionChanged="comComboBox_SelectionChanged"/>
+            <Label Margin="20, 0, 0, 0" >Speed:</Label>
+                <ComboBox Name="speedComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" SelectionChanged="speedComboBox_SelectionChanged"/>
+                <Button Name="beginButton"  Margin="20, 0, 0, 0" Content="Begin" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Click="beginButton_Click"/>
+                <Button Name="endButton" Content="End" Margin="20, 0, 0, 0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Click="endButton_Click"/>
+            </StackPanel>
+        <StackPanel>
+                <Label>Input:</Label>
+                    <TextBox Width="550" Height="170" HorizontalAlignment="Center" Name="SendTextBox" TextWrapping="Wrap" Text="" TextChanged="SendTextBox_TextChanged"/>
+                <Label>Output:</Label>
+                    <TextBox Width="550" Height="170" HorizontalAlignment="Center" Name="ReceiveTextBox" TextWrapping="Wrap" Text=""/>
+        </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
