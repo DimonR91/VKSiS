@@ -337,7 +337,7 @@ namespace vksis_lab_4
                                                             (byte) Convert.ToInt16(string.Format("{0}{1}", _curSourceGroupId[0], _curSourceId[0]), 2),
                                                             1);
 
-                        ShowMessages(packetHelper.GetPackets(), ComboBox00.SelectedIndex);
+                        ShowMessages(packetHelper.GetPackets());
                     }
                 }
             }
@@ -364,7 +364,7 @@ namespace vksis_lab_4
                                                             (byte)Convert.ToInt16(string.Format("{0}{1}", _curSourceGroupId[1], _curSourceId[1]), 2),
                                                             1);
 
-                        ShowMessages(packetHelper.GetPackets(), ComboBox01.SelectedIndex);
+                        ShowMessages(packetHelper.GetPackets());
                     }
                 }
             }
@@ -391,7 +391,7 @@ namespace vksis_lab_4
                                                             (byte)Convert.ToInt16(string.Format("{0}{1}", _curSourceGroupId[2], _curSourceId[2]), 2),
                                                             1);
 
-                        ShowMessages(packetHelper.GetPackets(), ComboBox10.SelectedIndex);
+                        ShowMessages(packetHelper.GetPackets());
                     }
                 }
             }
@@ -418,7 +418,7 @@ namespace vksis_lab_4
                                                             (byte)Convert.ToInt16(string.Format("{0}{1}", _curSourceGroupId[3], _curSourceId[3]), 2),
                                                             1);
 
-                        ShowMessages(packetHelper.GetPackets(), ComboBox11.SelectedIndex);
+                        ShowMessages(packetHelper.GetPackets());
                     }
                 }
             }
@@ -428,11 +428,12 @@ namespace vksis_lab_4
             }
         }
 
-        private void ShowMessages(IEnumerable<Packet> packets, int AddrTypeIdx)
+        private void ShowMessages(IEnumerable<Packet> packets)
         {
             foreach (var packet in packets)
             {
-                if (AddrTypeIdx == (int)AddressType.Broadcast)
+                // Broadcast
+                if ( Convert.ToInt32(packet.DestinationAddress, 16) == 255)
                 {
                     // 00
                     if (MatchAddress(packet.DestinationAddress,
@@ -459,7 +460,8 @@ namespace vksis_lab_4
                         Output11.Text += packet.Message;
                     }
                 }
-                else if (AddrTypeIdx == (int)AddressType.Multicast)
+                    // Multicast
+                else if (Get8CharsString((Convert.ToString(Convert.ToInt32(packet.DestinationAddress, 16), 2))).Substring(4, 4) == "1111")
                 {
                     // 00
                     if (MatchAddressStrictFirstPart(packet.DestinationAddress,

@@ -17,17 +17,17 @@
                 <StackPanel>
                     <Label Content="Source Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0001"  Height="23" Width="40" MaxLength="4" Name="SourceGroupId00"/>
+                        <TextBox Text="0001"  Height="23" Width="40" MaxLength="4" Name="SourceId00"/>
                         <Label Content="." />
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceId00"/>
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceGroupId00"/>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Margin="30,0">
                     <Label Content="Destination Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestGroupId00"/>
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestId00"/>
                         <Label Content="." />
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestId00"/>
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestGroupId00"/>
                     </StackPanel>
                 </StackPanel>
                 <ComboBox Name="ComboBox00" Height="30" Width="100" SelectionChanged="ComboBox00_SelectionChanged" >
@@ -47,17 +47,17 @@
                 <StackPanel>
                     <Label Content="Source Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceGroupId01"/>
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceId01"/>
                         <Label Content="." />
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceId01"/>
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceGroupId01"/>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Margin="30,0">
                     <Label Content="Destination Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestGroupId01"/>
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestId01"/>
                         <Label Content="." />
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestId01"/>
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestGroupId01"/>
                     </StackPanel>
                 </StackPanel>
                 <ComboBox Name="ComboBox01" Height="30" Width="100" SelectionChanged="ComboBox01_SelectionChanged" >
@@ -77,17 +77,17 @@
                 <StackPanel>
                     <Label Content="Source Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceGroupId10"/>
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceId10"/>
                         <Label Content="." />
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceId10"/>
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="SourceGroupId10"/>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Margin="30,0">
                     <Label Content="Destination Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestGroupId10"/>
-                        <Label Content="." />
                         <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestId10"/>
+                        <Label Content="." />
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="DestGroupId10"/>
                     </StackPanel>
                 </StackPanel>
                 <ComboBox Name="ComboBox10" Height="30" Width="100" SelectionChanged="ComboBox10_SelectionChanged" >
@@ -107,17 +107,17 @@
                 <StackPanel>
                     <Label Content="Source Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceGroupId11"/>
-                        <Label Content="." />
                         <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceId11"/>
+                        <Label Content="." />
+                        <TextBox Text="0010" Height="23" Width="40" MaxLength="4" Name="SourceGroupId11"/>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Margin="30,0">
                     <Label Content="Destination Adress" />
                     <StackPanel Orientation="Horizontal">
-                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestGroupId11"/>
-                        <Label Content="." />
                         <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestId11"/>
+                        <Label Content="." />
+                        <TextBox Text="0001" Height="23" Width="40" MaxLength="4" Name="DestGroupId11"/>
                     </StackPanel>
                 </StackPanel>
                 <ComboBox Name="ComboBox11" Height="30" Width="100" SelectionChanged="ComboBox11_SelectionChanged" >

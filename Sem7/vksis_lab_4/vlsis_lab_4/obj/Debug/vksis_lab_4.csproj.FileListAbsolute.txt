@@ -14,3 +14,13 @@ c:\users\dmitry\documents\visual studio 2012\Projects\vlsis_lab_4\vlsis_lab_4\ob
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\bin\Debug\vlsis_lab_4.exe.config
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vlsis_lab_4.exe
 C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vlsis_lab_4.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\bin\Debug\vlsis_lab_4.exe
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\bin\Debug\vlsis_lab_4.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vksis_lab_4.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\MainWindow.baml
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\MainWindow.g.cs
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\App.g.cs
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vlsis_lab_4_MarkupCompile.cache
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vlsis_lab_4.g.resources
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vlsis_lab_4.Properties.Resources.resources
+C:\Users\Dmitry\Documents\Visual Studio 2012\Projects\vksis_lab_4\vlsis_lab_4\obj\Debug\vksis_lab_4.csproj.GenerateResource.Cache
