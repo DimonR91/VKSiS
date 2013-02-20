@@ -1,0 +1,5 @@
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_5\PacketHelper\bin\Debug\PacketHelper.dll
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_5\PacketHelper\bin\Debug\PacketHelper.pdb
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_5\PacketHelper\obj\Debug\PacketHelper.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_5\PacketHelper\obj\Debug\PacketHelper.dll
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_5\PacketHelper\obj\Debug\PacketHelper.pdb
