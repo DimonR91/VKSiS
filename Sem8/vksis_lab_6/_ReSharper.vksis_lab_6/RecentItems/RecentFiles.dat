@@ -2,16 +2,16 @@
   <RecentFiles>
     <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:App.xaml" caret="0" fromTop="0" />
     <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml" caret="550" fromTop="7" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml.cs" caret="1983" fromTop="4" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:Message.cs" caret="740" fromTop="12" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml.cs" caret="1561" fromTop="0" />
     <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml" caret="1047" fromTop="4" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:Message.cs" caret="813" fromTop="25" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml.cs" caret="2772" fromTop="17" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml.cs" caret="3125" fromTop="48" />
   </RecentFiles>
   <RecentEdits>
     <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml" caret="550" fromTop="7" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml.cs" caret="1983" fromTop="25" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:Message.cs" caret="813" fromTop="22" />
     <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml" caret="1047" fromTop="4" />
-    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml.cs" caret="2772" fromTop="17" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:Message.cs" caret="740" fromTop="18" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:SystemManagerWindow.xaml.cs" caret="1561" fromTop="10" />
+    <File id="FCB3E4F7-B64C-48F6-9ED3-A44642FA2A9A/f:StationWindow.xaml.cs" caret="2300" fromTop="15" />
   </RecentEdits>
 </RecentFiles>

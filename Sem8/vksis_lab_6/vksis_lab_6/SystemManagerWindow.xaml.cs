@@ -44,7 +44,7 @@ namespace vksis_lab_6
                 for (int i = 0; i < _stations.Count; i++)
                 {
                     _curId = i;
-                    Thread.Sleep(2000);
+                    Thread.Sleep(1500);
                     ((BackgroundWorker)sender).ReportProgress(0);
                 }
 

@@ -64,6 +64,7 @@ namespace vksis_lab_6
 
         public void ReadMessage(Message message)
         {
+            InfoTextBox.Text += "*";
             // read message?
             if (message.SFS.AC.T == 1 && message.FcsCoverage.DA == SourceAddress)
             {
