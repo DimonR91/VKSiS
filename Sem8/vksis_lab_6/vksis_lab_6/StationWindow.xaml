@@ -17,6 +17,12 @@
                         <TextBox Text="" Height="23" Width="80" MaxLength="4" Name="DestId"/>
                     </StackPanel>
                 </StackPanel>
+                <StackPanel>
+                    <Label Content="Priority" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Text="" Height="23" Width="80" MaxLength="4" Name="PriorityId"/>
+                    </StackPanel>
+                </StackPanel>
             </StackPanel>
             <Label Content="Input:" />
             <TextBox Name="InputTextBox" HorizontalAlignment="Stretch" MinHeight="80" VerticalAlignment="Stretch" TextWrapping="Wrap" KeyUp="Input_KeyUp" />

@@ -37,10 +37,10 @@
 
     public class AC
     {
-        public int P;
+        public int P = 1;
         public int T;
         public int M;
-        public int R;
+        public int R = 1;
     }
 
     public class FC
