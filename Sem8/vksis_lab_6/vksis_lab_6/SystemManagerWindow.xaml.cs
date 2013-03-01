@@ -12,7 +12,7 @@ namespace vksis_lab_6
     {
         private BackgroundWorker _backgroundWorker;
         private readonly List<StationWindow> _stations = new List<StationWindow>();
-        private readonly Message _message = new Message();
+        private Message _message = new Message();
         private int _curId;
 
         public SystemManagerWindow()
@@ -46,6 +46,19 @@ namespace vksis_lab_6
                     _curId = i;
                     Thread.Sleep(2000);
                     ((BackgroundWorker)sender).ReportProgress(0);
+                }
+
+                if(_message.SFS.AC.T == 1)
+                {
+                    if(_message.SFS.AC.M == 0)
+                    {
+                        _message.SFS.AC.M = 1;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Destination address wasn't found!");
+                        _message = new Message();
+                    }
                 }
             }
         }

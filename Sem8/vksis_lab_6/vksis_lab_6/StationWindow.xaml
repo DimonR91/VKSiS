@@ -1,7 +1,7 @@
 ﻿<Window x:Class="vksis_lab_6.StationWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="StationWindow" Height="400" Width="500" >
+        Title="StationWindow" Height="400" Width="500" WindowStyle="SingleBorderWindow">
     <Grid>
         <StackPanel Grid.Row="0" Grid.Column="0">
             <StackPanel Orientation="Horizontal">

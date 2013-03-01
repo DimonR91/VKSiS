@@ -1,5 +1,5 @@
-2013/02/28-23:32:58.994 cbc Recovering log #3
-2013/02/28-23:32:58.995 cbc Level-0 table #5: started
-2013/02/28-23:32:59.045 cbc Level-0 table #5: 6743 bytes OK
-2013/02/28-23:32:59.124 cbc Delete type=0 #3
-2013/02/28-23:32:59.124 cbc Delete type=3 #2
+2013/03/01-15:20:36.013 5bc Recovering log #6
+2013/03/01-15:20:36.013 5bc Level-0 table #8: started
+2013/03/01-15:20:36.013 5bc Level-0 table #8: 0 bytes OK
+2013/03/01-15:20:36.153 5bc Delete type=0 #6
+2013/03/01-15:20:36.153 5bc Delete type=3 #4
