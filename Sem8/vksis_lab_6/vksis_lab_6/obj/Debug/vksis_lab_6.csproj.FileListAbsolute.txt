@@ -1,0 +1,16 @@
+c:\users\dmitry\documents\visual studio 2012\Projects\vksis_lab_6\vksis_lab_6\bin\Debug\vksis_lab_6.exe.config
+C:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\bin\Debug\vksis_lab_6.exe.config
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\bin\Debug\vksis_lab_6.exe
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\bin\Debug\vksis_lab_6.pdb
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.csprojResolveAssemblyReference.cache
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\App.g.cs
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6_MarkupCompile.cache
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.g.resources
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.Properties.Resources.resources
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.csproj.GenerateResource.Cache
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.exe
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\vksis_lab_6.pdb
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\SystemManagerWindow.baml
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\SystemManagerWindow.g.cs
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\StationWindow.baml
+c:\Users\Dmitry\Documents\GitHub\VKSiS\Sem8\vksis_lab_6\vksis_lab_6\obj\Debug\StationWindow.g.cs

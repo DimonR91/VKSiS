@@ -1,0 +1,29 @@
+﻿<Window x:Class="vksis_lab_6.StationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StationWindow" Height="400" Width="500" >
+    <Grid>
+        <StackPanel Grid.Row="0" Grid.Column="0">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel>
+                    <Label Content="Source Adress" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Text=""  Height="23" Width="80" MaxLength="4" Name="SourceId"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="30,0">
+                    <Label Content="Destination Adress" />
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Text="" Height="23" Width="80" MaxLength="4" Name="DestId"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+            <Label Content="Input:" />
+            <TextBox Name="InputTextBox" HorizontalAlignment="Stretch" MinHeight="80" VerticalAlignment="Stretch" TextWrapping="Wrap" KeyUp="Input_KeyUp" />
+            <Label Content="Info:" />
+            <TextBox Name="InfoTextBox" HorizontalAlignment="Stretch" MinHeight="80" VerticalAlignment="Stretch" TextWrapping="Wrap" IsReadOnly="True" />
+            <Label Content="Output:" />
+            <TextBox Name="OutputTextBox" HorizontalAlignment="Stretch" MinHeight="80" VerticalAlignment="Stretch"  TextWrapping="Wrap"  IsReadOnly="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

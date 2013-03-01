@@ -1,0 +1,12 @@
+﻿<Window x:Class="vksis_lab_6.SystemManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SystemManagerWindow" Height="350" Width="525" Loaded="Window_Loaded_1">
+    <Grid>
+        <StackPanel Margin="50,50,50,50">
+            <Button Name="AddStationButton" Height="105" Content="Add" Click="AddStationButton_Click" />
+            <Button Name="RemoveStationButton" Height="105" Content="Remove" Click="RemoveStationButton_Click" />
+            <Button></Button>
+        </StackPanel>
+    </Grid>
+</Window>
